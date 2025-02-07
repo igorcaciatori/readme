@@ -1,6 +1,6 @@
 <div align="center">
 
-#HealthMode
+<h1>HealthMode</h1>
 
 </div>
 
