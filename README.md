@@ -1,10 +1,15 @@
 # Nome do projeto:
+    - HealthMode
+    - NurseTech
 
-# Descrição:
+# Descrição: 
+    - 
 
-# Objetivo do projeto:
+# Objetivo do projeto: 
 
-# Tecnologias utilizadas:
+# Tecnologias utilizadas: 
+    ## Front-end
+    - React Native
 
 # Pré-Requisitos:
 
