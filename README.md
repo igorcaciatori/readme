@@ -1,6 +1,6 @@
 # Nome do projeto:
-    + HealthMode
-    + NurseTech
++ HealthMode
++ NurseTech
 
 # Descrição: 
     - 
