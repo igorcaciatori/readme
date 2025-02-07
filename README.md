@@ -8,8 +8,8 @@
 # Objetivo do projeto: 
 
 # Tecnologias utilizadas: 
-    ## Front-end
-    - React Native
+## Front-end
+- React Native
 
 # Pré-Requisitos:
 
