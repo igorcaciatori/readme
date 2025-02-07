@@ -1,4 +1,9 @@
-# HealthMode
+<div align="center">
+
+HealthMode
+
+</div>
+
 
 # Descrição
 Software/Aplicativo que ajuda as empresas a promoverem uma vida saudável a seus colaboradores, a partir de recomendações de alimentação, exercicios físicos e estudos de maneira totalmente personalizada, com consultas médicas com nossa IA, trazendo relatórios de desempenho e apontando mudanças nos hábitos.
