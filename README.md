@@ -28,6 +28,7 @@ Software/Aplicativo que ajuda as empresas a promoverem uma vida saudável a seus
 - Micro Serviço que sincroniza tudo isso em um To-Do/Kanban
 - Micro Serviço com sistema de rankeamento por setor
 - Apache Kafka para mensageria
+- Serviços AWS para hospedagem
 
 ## Pré-Requisitos
 ### Para usuários
